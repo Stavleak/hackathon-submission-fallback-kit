@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "teamReference": "fictional-team-01",
+  "receivedAt": "2026-10-01T18:59:00+05:00",
+  "deadline": "2026-10-01T19:00:00+05:00",
+  "channel": "fallback",
+  "incidentReference": "fictional-incident-01",
+  "fixedVersion": "fictional-snapshot-01",
+  "artifacts": [
+    {
+      "path": "demo.txt",
+      "bytes": 51,
+      "sha256": "37dd1cb0628c5395f0b8625acb272c1c69ee536fe8e35121c79932cea85600ea"
+    }
+  ]
+}
